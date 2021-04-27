@@ -305,3 +305,14 @@
   text-align: center;
   margin-top: 20px;
 }
+
+.link-button {
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  text-decoration: underline;
+  outline: none;
+  border: none;
+}
+.register {
+  height: 20px;
+}
